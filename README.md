@@ -1,5 +1,6 @@
 # RMS Threads Assistant
 
+<div align="center">
 <p>
   <img alt="Latest release" src="https://img.shields.io/github/v/release/max-ramas/rms-threads-assistant-public?label=release">
   <img alt="Downloads" src="https://img.shields.io/github/downloads/max-ramas/rms-threads-assistant-public/total">
@@ -10,6 +11,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">
   <img alt="License" src="https://img.shields.io/badge/license-commercial-lightgrey">
 </p>
+</div>
 
 **A local-first desktop app that helps you show up on Threads consistently — without living in the app.**
 
