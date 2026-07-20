@@ -1,5 +1,5 @@
 # RMS Threads Assistant
-
+ 
 <div align="center">
 <p>
   <img alt="Latest release" src="https://img.shields.io/github/v/release/max-ramas/rms-threads-assistant-public?label=release">
@@ -23,8 +23,8 @@ RMS Threads Assistant finds conversations relevant to your brand or niche on Thr
 
 | Platform | Download |
 |---|---|
-| macOS (Apple Silicon / Intel) | [.dmg](../../releases/latest) |
-| Windows | [.msi](../../releases/latest) |
+| macOS (Apple Silicon) | [.dmg](../../releases/latest) |
+| Windows | [.msi, .exe](../../releases/latest) |
 | Linux | [.deb](../../releases/latest) / [.rpm](../../releases/latest) / [AppImage](../../releases/latest) |
 | Android | coming soon |
 | iOS | coming soon |
