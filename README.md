@@ -26,7 +26,7 @@ RMS Threads Assistant finds conversations relevant to your brand or niche on Thr
 | macOS (Apple Silicon / Intel) | [.dmg](../../releases/latest) |
 | Windows | [.msi](../../releases/latest) |
 | Linux | [.deb](../../releases/latest) / [.rpm](../../releases/latest) / [AppImage](../../releases/latest) |
-| Android | [.apk](../../releases/latest) |
+| Android | coming soon |
 | iOS | coming soon |
 
 > **Note on updates:** macOS, Windows, and Linux AppImage builds auto-update in-app. `.deb`/`.rpm` installs and Android need a manual re-download from Releases.
