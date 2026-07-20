@@ -29,7 +29,7 @@ RMS Threads Assistant finds conversations relevant to your brand or niche on Thr
 | Android | coming soon |
 | iOS | coming soon |
 
-> **Note on updates:** macOS, Windows, and Linux AppImage builds auto-update in-app. `.deb`/`.rpm` installs and Android need a manual re-download from Releases.
+> **Note on updates:** macOS, Windows, and Linux AppImage builds auto-update in-app. `.deb`/`.rpm` installs need a manual re-download from Releases.
 
 [**→ All releases**](../../releases)
 
