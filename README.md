@@ -13,6 +13,21 @@
 </p>
 </div>
 
+> ### 🔒 Privacy promise
+> RMS does **not** collect your data or usage statistics. We receive only the fact of an installation
+> (an anonymous ID and the app version) and whether it has a license. There is no telemetry or
+> analytics, and the server logs only errors, without content or IP addresses.
+>
+> Threads is the one place where a small server of ours is involved, and here is exactly why.
+> Meta requires post images to be served from a single public address, so images you attach are
+> uploaded to `media.rms-ds.com` and **deleted automatically after one hour**. To publish on your
+> behalf, your Threads token is stored there encrypted (AES-GCM) and is **deleted when you
+> disconnect the account**. The sign-in session for your own Meta app is short-lived (15 minutes).
+> AI replies go straight from your device to the provider you chose with your own key.
+> Want the AI side fully private? Choose a local Ollama and reply generation never leaves your
+> computer (publishing still goes through Meta and our media server, as described above).
+> If other online services are ever introduced, we will tell you clearly beforehand.
+
 **A local-first desktop app that helps you show up on Threads consistently — without living in the app.**
 
 RMS Threads Assistant finds conversations relevant to your brand or niche on Threads, drafts on-brand AI replies for your review, and gives you a full planner for scheduling your own original posts and threads — all from a desktop app that keeps your credentials on your machine, not on someone else's server.
