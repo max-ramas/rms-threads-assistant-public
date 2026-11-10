@@ -35,14 +35,7 @@ RMS Threads Assistant finds conversations relevant to your brand or niche on Thr
 
 ---
 
-**Known issue on macOS:** the app currently launches with an "app is damaged" warning on first run — this isn't a corrupted file, it's Gatekeeper's standard check for apps distributed outside the App Store. We're sorry for the inconvenience — this will be resolved once notarization with Apple is complete. In the meantime, here's how to open it:
-
-**Option 1** — System Settings → Privacy & Security → scroll down to the Security section → click "Open Anyway" next to the RMS Threads Assistant entry, then confirm with your password.
-
-**Option 2** (if Option 1 didn't work or the button isn't there) — open Terminal and run:
-```
-xattr -r -d com.apple.quarantine /Applications/RMS\ Threads\ Assistant.app
-```
+On macOS the app is signed with an Apple Developer ID and notarized, so it opens without a Gatekeeper warning.
 
 ---
 
