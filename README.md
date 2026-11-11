@@ -23,9 +23,9 @@ RMS Threads Assistant finds conversations relevant to your brand or niche on Thr
 
 | Platform | Download |
 |---|---|
-| macOS (Apple Silicon) | [.dmg](../../releases/latest) |
-| Windows | [.exe](../../releases/latest) |
-| Linux | [.deb](../../releases/latest) / [.rpm](../../releases/latest) / [AppImage](../../releases/latest) |
+| macOS (Apple Silicon) | [.dmg](https://update.rms-ds.com/get/rms-threads-assistant/dmg?src=readme) |
+| Windows | [.exe](https://update.rms-ds.com/get/rms-threads-assistant/exe?src=readme) |
+| Linux | [.deb](https://update.rms-ds.com/get/rms-threads-assistant/deb?src=readme) / [.rpm](https://update.rms-ds.com/get/rms-threads-assistant/rpm?src=readme) / [AppImage](https://update.rms-ds.com/get/rms-threads-assistant/appimage?src=readme) |
 | Android | coming soon |
 | iOS | coming soon |
 
